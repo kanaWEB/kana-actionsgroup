@@ -1,0 +1,13 @@
+{
+   "description" : "Manage a group of actions",
+   "name" : "Group of actions",
+   "tags" : [
+      "object",
+      "multiple",
+      "group",
+      "wait",
+      "sleep",
+      "actions"
+   ],
+   "type" : "action"
+}

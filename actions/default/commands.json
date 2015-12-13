@@ -1,0 +1,10 @@
+{
+  "default": {
+    "command": "/do/kana/action",
+    "args": {
+      "action": {
+        "type": "Actions"
+      }
+    }
+  }
+}

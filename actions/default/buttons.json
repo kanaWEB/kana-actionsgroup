@@ -1,0 +1,14 @@
+{
+	"buttons" : [
+	{
+		"name": "Start",
+		"color" : "success",
+		"icon" : "glyphicon-envelope",
+		"command" : "default",
+		"state" : 1,
+		"effect" : {
+			"type" : "state_toggle(this,'on')"
+		}
+	}
+]
+}
